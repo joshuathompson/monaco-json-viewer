@@ -1,0 +1,22 @@
+{
+  "name": "monaco-json-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuathompson/monaco-json-viewer.git"
+  },
+  "author": "Joshua Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuathompson/monaco-json-viewer/issues"
+  },
+  "homepage": "https://github.com/joshuathompson/monaco-json-viewer#readme",
+  "dependencies": {
+    "monaco-editor": "^0.30.1"
+  }
+}
